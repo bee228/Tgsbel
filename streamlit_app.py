@@ -1,7 +1,7 @@
 import streamlit as st
 st.title("--Selamat Datang Di Web Informatika--")
 st.write("ngoding seru bersama Belva .")
-st.image("wp-1625212579138.png",width=500)
+st.image("IMG_3224.jpeg",width=500)
 
 st.title("Aplikasi Sederhana")
 st.header("Aplikasi Mengecek Nilai Genap/Ganjil")
